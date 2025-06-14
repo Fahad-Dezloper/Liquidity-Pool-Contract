@@ -4,6 +4,7 @@ version = "1.0.0"
 authors = []
 
 [addresses]
+liquidity_addr = "364c76ec4118dfe819c716940e297175e6e29b48e3dc0deb68a337bd9d2526fd"
 
 [dev-addresses]
 
